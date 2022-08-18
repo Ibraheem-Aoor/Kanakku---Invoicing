@@ -1,0 +1,1 @@
+export const salesReport = (state) => (state.salesReport ? state.salesReport : [])

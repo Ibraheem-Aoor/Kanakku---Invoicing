@@ -1,0 +1,14 @@
+
+module.exports = {
+  purge: [
+    './resources/views/**/*.php',
+    './resources/assets/js/**/*.js',
+    './resources/assets/js/**/*.vue',
+    './resources/assets/sass/**/*.css',
+    'flatpickr/**/*.js',
+    'toastr/**/*.js',
+  ],
+}
+
+
+/*# sourceMappingURL=mix.css.map*/
